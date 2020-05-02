@@ -1,5 +1,5 @@
-## Time Pomodoro
+## Timer Pomodoro
 
-Temporizador Pomodoro desenvolvido em React.
+Pomodoro timer developed in React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
